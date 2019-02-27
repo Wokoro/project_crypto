@@ -6,4 +6,5 @@
 /*.js
 
 # Ignore public folder
-/public
+/public/*.js
+/public/*.css
